@@ -27,4 +27,8 @@ body {
   .td1 {
     border-top: 1px solid lightgrey;
   }
+
+  .table-container {
+    overflow-x: auto;
+  }
   
