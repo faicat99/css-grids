@@ -16,9 +16,15 @@ body {
     color: #231d3c;
   }
   
-  .logo {
-    display: block;
-    margin: 30px auto;
-    width: 150px;
+  .table1 {
+    border: 1px solid lightgrey;
+  }
+
+  .thead1 {
+    background: lightgrey;
+  }
+
+  .td1 {
+    border-top: 1px solid lightgrey;
   }
   
